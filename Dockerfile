@@ -1,4 +1,4 @@
-# Use OpenJDK 21 (Java 24 not widely available in Docker images yet)
+
 FROM openjdk:21-jdk-slim
 
 # Set working directory
